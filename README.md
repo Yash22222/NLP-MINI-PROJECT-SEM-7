@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [NLTK Documentation](https://www.nltk.org/)
 - [VADER Documentation](https://github.com/cjhutto/vaderSentiment)
-```
+
