@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Emirates Passenger Reviews Sentiment Analysis
 
 ## Project Overview
@@ -8,6 +8,7 @@ This project involves scraping passenger reviews for Emirates from the AirlineQu
 
 ## Installation Instructions
 To run this project, ensure you have Python installed along with the following libraries:
+
 
 ```bash
 pip install requests beautifulsoup4 pandas nltk vaderSentiment matplotlib wordcloud
@@ -70,7 +71,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [NLTK Documentation](https://www.nltk.org/)
 - [VADER Documentation](https://github.com/cjhutto/vaderSentiment)
 ```
-
-### Additional Suggestions
-- Ensure to include any necessary files like `requirements.txt` and `LICENSE` in your repository.
-- Update the links in the `README.md` if you have any specific documentation or references you want to add.
