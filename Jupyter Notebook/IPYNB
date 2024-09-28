@@ -1,1 +1,5 @@
-
+This project focuses on scraping and analyzing passenger reviews for Air India from the AirlineQuality website. By employing web scraping techniques, 
+we gather a significant dataset of customer feedback. We then perform sentiment analysis using Natural Language Processing (NLP) methods, specifically 
+leveraging the VADER (Valence Aware Dictionary and sEntiment Reasoner) tool to classify the reviews into positive, negative, or neutral sentiments. 
+The findings are visualized through various charts and word clouds, providing insights into customer experiences and sentiment trends regarding Air 
+India's services. This analysis aims to inform stakeholders about public perception and areas for improvement.
